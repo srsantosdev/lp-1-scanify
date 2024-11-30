@@ -1,6 +1,6 @@
 'use client'
 
-import { motion } from 'framer-motion'
+import { motion } from 'motion'
 import { Button } from "@/components/ui/button"
 import { NavBar } from "./nav-bar"
 import { Play } from 'lucide-react'
