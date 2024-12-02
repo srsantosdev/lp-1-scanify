@@ -9,6 +9,7 @@ import UseCases from "./use-cases";
 import PricingSection from "./pricing-section";
 import NewsletterSection from "./newsletter-section";
 import Footer from "./footer";
+import FAQ from "./faq";
 
 const styles = {
   shadowGlow: {
@@ -188,6 +189,7 @@ export default function HeroSection() {
       <WhyScanify />
       <UseCases />
       <PricingSection />
+      <FAQ />
       <NewsletterSection />
       <Footer />
     </div>
